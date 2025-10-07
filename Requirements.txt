@@ -1,0 +1,10 @@
+## Lista de las librerías utilizadas en la notebook y sus versiones.
+
+NumPy version: 2.0.2
+Pandas version: 2.2.2
+Seaborn version: 0.13.2
+Matplotlib version: 3.10.0
+Scikit-learn (sklearn) version: 1.6.1
+Spacy version: 3.8.7
+WordCloud version: 1.9.4
+NLTK version: 3.9.1
