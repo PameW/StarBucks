@@ -6,7 +6,11 @@ Este proyecto forma parte del curso de **Data Science III de CoderHouse** y tien
 
 ## 📊 Descripción del Proyecto
 
-El presente análisis tiene como objetivo explorar 
+El presente trabajo tiene como objetivo aplicar técnicas de procesamiento de lenguaje natural (NLP) sobre un conjunto de reseñas de clientes de Starbucks. El dataset utilizado contiene comentarios textuales que reflejan percepciones, opiniones y valoraciones de los consumidores respecto a la marca y sus productos.
+
+A través del preprocesamiento de texto —incluyendo tokenización, lematización y eliminación de stopwords— se busca limpiar y estructurar los datos de manera adecuada para futuros análisis. Posteriormente, se incorporan técnicas de análisis de sentimiento y representación vectorial mediante TF-IDF, junto con el análisis de frecuencia de palabras y la exploración lingüística con SpaCy.
+
+Este proceso permitirá no solo comprender mejor las opiniones de los clientes, sino también identificar las palabras más representativas y asociarlas a las polaridades del sentimiento expresado, así como analizar la relación entre las reseñas textuales y los ratings otorgados. De esta manera, se sientan las bases para aplicaciones más avanzadas como minería de opiniones, clasificación automática de reseñas y sistemas de recomendación.
 ---
 
 ## 🛠️ Tecnologías utilizadas
@@ -24,12 +28,12 @@ El presente análisis tiene como objetivo explorar
 
 ## 📁 Estructura del repositorio
 
-Chocolate_Open_Food_Facts/
 - Starbucks_reviews_data.csv # Datos en crudo obtenidos de Kaggle.
 - Proyecto_Starbucks_Wasserman.ipynb # Notebook con el proyecto.
 - README.md
 - LICENSE
 - Requirements.txt # Librerías necesarias.
+- Calification.pdf # Evaluación del proyecto
 
 ---
 
